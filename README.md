@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá, eu sou Adriano!
 
-<!--
-**adrianoalvesjpg-bit/adrianoalvesjpg-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu GitHub! Aqui você encontra meus projetos, estudos e experimentos na área de tecnologia.  
+Sou apaixonado por desenvolvimento de software e por soluções que tornam processos mais eficientes e escaláveis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+- **Linguagens:** Python, JavaScript, SQL  
+- **Frameworks/Bibliotecas:** PySide6, Pandas, React.js, Next.js
+- **Banco de Dados:** SQLite
+- **Ferramentas:** Git/GitHub, VS Code 
+
+---
+
+## 🎯 Interesses de Desenvolvimento
+- Desenvolvimento de software desktop e web
+- Integração de sistemas e automação de processos  
+- Ciência de dados e análise de informações
+- Boas práticas de código e arquitetura escalável  
+
+---
+
+## 🌱 Sobre mim
+- Sempre em busca de aprendizado contínuo  
+- Valorizo colaboração, ética e inovação  
+- Curioso por novas tecnologias e desafios  
+
+---
+
+📫 **Vamos conectar?**  
+[LinkedIn](https://www.linkedin.com/in/adriano-alves-vieira-b1892130a/) | [Email](adrianoalves.jpg@gmail.com)
