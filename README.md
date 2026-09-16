@@ -7,7 +7,7 @@ Sou apaixonado por desenvolvimento de software e por soluções que tornam proce
 
 ## Tecnologias e Ferramentas
 - **Linguagens:** Python, JavaScript, SQL  
-- **Frameworks/Bibliotecas:** PySide6, Pandas, React.js, Next.js
+- **Frameworks/Bibliotecas:** PySide6, Pandas,FastAPI, React.js, Next.js
 - **Banco de Dados:** SQLite
 - **Ferramentas:** Git/GitHub, VS Code 
 
